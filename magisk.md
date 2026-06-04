@@ -1,4 +1,4 @@
-# xiaomi-blackshark-helo
+# magisk
 
 Check adb root sudo
 <img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/21c20e4d-35da-4d68-9dc7-9112505cfeca" />
