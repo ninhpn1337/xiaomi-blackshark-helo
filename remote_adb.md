@@ -18,3 +18,9 @@ Tắt độ sáng tự động và ép sáng về 0:
 adb shell settings put system screen_brightness_mode 0
 adb shell settings put system screen_brightness 0
 ```
+
+Tăng điểm ảnh: 
+
+```
+adb shell wm density 420
+```
