@@ -1,1 +1,3 @@
 Usb và wifi thì dùng cái này: https://github.com/barry-ran/QtScrcpy
+
+resize màn thì dùng adb shell wm size 1920x1080
