@@ -35,3 +35,9 @@ Tăng điểm ảnh:
 ```
 adb shell wm density 420
 ```
+
+Đẩy file ( với root) 
+```
+adb remount
+adb push [Đường_dẫn_file_trên_PC] [Đường_dẫn_thư_mục_trên_ĐT]
+```
