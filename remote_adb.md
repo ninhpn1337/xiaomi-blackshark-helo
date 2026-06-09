@@ -36,8 +36,18 @@ Tăng điểm ảnh:
 adb shell wm density 420
 ```
 
-Đẩy file ( với root) 
+Đẩy file (với root) - Nếu có arm64 hoặc aarch64 thì có thể đẩy thằng vào /system/bin/ để gọi được nhé 
 ```
 adb remount
 adb push [Đường_dẫn_file_trên_PC] [Đường_dẫn_thư_mục_trên_ĐT]
+```
+
+Đẩy file vào kali trong điện thoại: 
+
+```
+adb push [Đường_dẫn_file_trên_PC] /tmp/tên_file
+adb shell
+su
+mv /tmp/tên_file /data/local/nhsystem/kali-arm64/usr/bin/
+chmod 755 /data/local/nhsystem/kali-arm64/usr/bin/tên_file
 ```
