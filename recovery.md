@@ -1,3 +1,6 @@
+
+[Hovatek] Qualcomm Auto TWRP Recovery Porter V1.4 by Team Hovatek: https://github.com/Rprop/Auto-TWRP-recovery-porter/releases
+
 Kiểm tra lúc đang ở adb shell (Máy đang bật)
 Ngay trong cửa sổ dòng lệnh có dấu # (sau khi gõ su), ông gõ lệnh này để hỏi thẳng hệ điều hành xem nó đang boot từ đâu:
 
