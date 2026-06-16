@@ -10,7 +10,8 @@ chmod +x kali
 
 Đẩy file vào kali trong điện thoại:
 
-``` adb push [Đường_dẫn_file_trên_PC] /tmp/tên_file
+```
+adb push [Đường_dẫn_file_trên_PC] /tmp/tên_file
 adb shell
 su
 mv /tmp/tên_file /data/local/nhsystem/kali-arm64/usr/bin/
