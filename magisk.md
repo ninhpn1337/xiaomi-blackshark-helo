@@ -24,6 +24,8 @@ Coppy và tim, có phần current slot là a
 Chạy dd ra boot_a.img
 
 <img width="1099" height="219" alt="cmd_OrWmhwWZjt" src="https://github.com/user-attachments/assets/f4507903-9bbe-44fb-b3d8-8e3013e20ced" />
+
+
 ```
 dd if=/dev/block/by-name/boot_a of=/sdcard/Download/boot_a_goc.img
 ```
