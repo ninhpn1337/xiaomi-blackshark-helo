@@ -17,3 +17,7 @@ nếu nó có ^M thì kệ nó nhé. Chỉ replace từ 0 thành 1
 <img width="253" height="262" alt="cmd_ulr05XGQzD" src="https://github.com/user-attachments/assets/eb325e74-9bb0-416a-a534-6c048e80b19d" />
 
 Thế là ok rồi.
+
+```
+pm clear com.riot.FFGSSea
+```
