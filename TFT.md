@@ -1,5 +1,7 @@
 
 ############60 FPS TFTVN############
+
+
 Cách tìm file thì là 
 ```
 find / -name "Game.cfg" 2>/dev/null
